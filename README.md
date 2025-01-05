@@ -1,3 +1,13 @@
+このフォークでは、redmine6系への対応を目的とした改修のみを実施します。
+本家が対応した場合、更新を終了する予定です。
+現在、[動作する]ところまで対応済み。
+
+In this fork, we will only implement modifications aimed at supporting Redmine 6.x.
+If the original project provides support, we plan to discontinue updates.
+Currently, it is [working] to the extent that it operates.
+
+---
+
 # Slack chat plugin for Redmine
 
 This plugin posts updates to issues in your Redmine installation to a Slack
